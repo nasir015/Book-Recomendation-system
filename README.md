@@ -5,12 +5,12 @@
 
 ## Introduction
 
-This is a book recommendation system which recommends books based on the book you like. It uses the cosine similarities to find the nearest books to the book you like and recommends them to you.
+This is a book recommendation system that recommends books based on the book you like. It uses the cosine similarities to find the nearest books to the book you like and recommends them to you.
 
 
 ## Dataset
 
-The dataset used for this project is the [Book Dataset](https://gist.github.com/jaidevd/23aef12e9bf56c618c41). It contains 212 books list . It also contains the author, subothor, publisher and genre and  book title and author of the users. The dataset is in the form of 2 tables: books.csv, books_new.csv . The dataset is in the form of a CSV file.
+The dataset used for this project is the [Book Dataset](https://gist.github.com/jaidevd/23aef12e9bf56c618c41). It contains 212 books list. It also contains the author, sub-author, publisher and genre book title, and author of the users. The dataset is in the form of 2 tables: books.csv, books_new.csv. The dataset is in the form of a CSV file.
 
 ## Columns
 
@@ -21,7 +21,7 @@ The columns in the dataset are:
 - sub-author: The sub-author of the book
 - publisher: The publisher of the book
 - genre: The genre of the book
-- heaight: The height of the book
+- height: The height of the book
 
 
 
