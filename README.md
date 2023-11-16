@@ -1,8 +1,5 @@
 # Book-Recomendation-system
 
-
-# Book-Recomendation-system
-
 ## Introduction
 
 This is a book recommendation system that recommends books based on the book you like. It uses the cosine similarities to find the nearest books to the book you like and recommends them to you.
