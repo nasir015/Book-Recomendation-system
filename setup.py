@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "cement_strength_Prediction"
+REPO_NAME = "Book-Recomendation-system"
 AUTHOR_USER_NAME = "nasir015"
 SRC_REPO = "mlProject"
 AUTHOR_EMAIL = "nasir1515@student.nstu.edu.bd"
@@ -17,7 +17,7 @@ setuptools.setup(
     version=__version__,
     author=AUTHOR_USER_NAME,
     author_email=AUTHOR_EMAIL,
-    description="A project of cement strength prediction",
+    description="A project of Book recommendation system",
     long_description=long_description,
     long_description_content="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",

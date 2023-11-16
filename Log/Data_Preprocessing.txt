@@ -1,0 +1,7 @@
+[2023-11-15 17:11:28,657] 12 Nasir - INFO - Data Preprocessing Started
+[2023-11-15 17:11:28,657] 12 Nasir - INFO - Reading the data
+[2023-11-15 17:11:28,759] 12 Nasir - INFO - preprocess_dataset started
+[2023-11-15 17:11:28,763] 12 Nasir - INFO - droping the duplicates completed
+[2023-11-15 17:11:28,765] 12 Nasir - INFO - preprocessing numercial data completed
+[2023-11-15 17:11:28,779] 12 Nasir - INFO - preprocessing text data completed
+[2023-11-15 17:11:28,784] 12 Nasir - INFO - Dataframe saved as csv file
